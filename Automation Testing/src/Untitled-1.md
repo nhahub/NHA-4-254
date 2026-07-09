@@ -1,0 +1,38 @@
+```
+└── 📁src
+    └── 📁main
+        └── 📁java
+            └── 📁bots
+                ├── ActionsBot.java
+                ├── Wait.java
+            └── 📁org
+                └── 📁example
+                    └── 📁api
+                    └── 📁pages
+                        └── 📁adminPage
+                            ├── AdminPage.java
+                            ├── CorporateBranding.java
+                            ├── EducationPage.java
+                        └── 📁PIM
+                            ├── AddEmployeePage.java
+                        ├── loginPage.java
+                        ├── ResetPasswordPage.java
+                    └── 📁utils        
+                        ├── NavbarUtil.java
+                        ├── ScreenshotUtil.java
+                    ├── Base.java
+                    ├── DriverManager.java
+        └── 📁resources
+    └── 📁test
+        └── 📁java
+            └── 📁api
+            └── 📁ui
+                └── 📁adminPages
+                    ├── CorporateBrandingTest.java
+                    ├── EducationTest.java
+                    ├── EmailConfigurationTest.java
+                └── 📁PIM
+                    ├── AddEmployeeTest.java
+                    ├── CustomFieldsTest.java
+                ├── loginTest.java
+```
